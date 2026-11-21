@@ -1,0 +1,9 @@
+[
+  {"name":"PARACETAMOL","strength":"500MG","aliases":["CALPOL","DOLO"]},
+  {"name":"CETIRIZINE","strength":"10MG","aliases":["CETZINE"]},
+  {"name":"IBUPROFEN","strength":"200MG","aliases":["BRUFEN"]},
+  {"name":"METFORMIN","strength":"500MG","aliases":["GLUCOPHAGE"]},
+  {"name":"AMOXICILLIN","strength":"500MG","aliases":["MOX"]},
+  {"name":"PANTOPRAZOLE","strength":"40MG","aliases":["PAN"]},
+  {"name":"AZITHROMYCIN","strength":"500MG","aliases":["AZEE"]}
+]

@@ -1,0 +1,5 @@
+- `[ ]` Implement robust prescription image preprocessing and sorted bounding-box text block extraction
+- `[ ]` Implement structured prescription field parser (Medicine, Strength, Dosage, Frequency, Duration) maintaining table row integrity
+- `[ ]` Create structured prescription results screen with separate cards, "Needs confirmation" badges, manual edit dialog, and raw OCR debug section
+- `[ ]` Add user confirmation gate before saving prescriptions to history
+- `[ ]` Build and test the application (`:app:assembleDebug :app:testDebugUnit`)
